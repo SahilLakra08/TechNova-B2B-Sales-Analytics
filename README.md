@@ -182,7 +182,6 @@ Built a fully interactive single-screen dashboard in Excel:
 
 **Sahil**
 B.Tech Computer Science Engineering — GTB4CEC, GGSIPU (Batch 2022–26)
-Business Analytics Intern — Polycab India Limited
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/sahil-lakra-5349b12b4)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/SahilLakra08)
