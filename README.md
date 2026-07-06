@@ -24,7 +24,10 @@ from Salesforce CRM, SAP ERP, and manual Excel reports.
 ## Tools Used
 Microsoft Excel · Power Query · Pivot Tables · PivotCharts
 
-## Files
-- BI_Case_Study_Raw_Dataset.xlsx — Original raw dataset
-- TechNova_Sales_Dashboard_Sahil_v1.xlsx — Cleaned data + Dashboard
-- TechNova_BI_Project_Summary_Sahil.docx — Project summary report
+## Files in This Repository
+| File | Description |
+|---|---|
+| BI_Case_Study_Raw_Dataset.xlsx | Raw messy dataset — 67,000 rows |
+| TechNova_Sales_Dashboard_Sahil_v1.xlsx | Cleaned data + Executive Dashboard |
+| TechNova_BI_Project_Summary_Sahil.docx | Project summary report |
+| BRD_Sales_Analytics_Case_Study.docx | Business Requirement Document |
